@@ -1,5 +1,5 @@
 # Tate Data Analyst Technical Test
-This is the repository containing instructions and base data for a technical test for analysts 
+This is the repository containing instructions and base data for a technical test for analysts
 
 # Set up
 
@@ -19,16 +19,7 @@ If you would prefer to use a different tool, please feel free.
 
 ## SQL
 
-It is possible to answer this test using SQL alone. If this is your preference, please ensure your SQL is well annotated. 
-
-
-# Submission
-
-Please return your code and results to osman.yilmaz@tate.org.uk.  
-
-The end-date for submissions is midnight on Tuesday 22 May 2018.  
-
-Please do not return the database via email (it's quite large!)
+It is possible to answer this test using SQL alone. If this is your preference, please ensure your SQL is well annotated.
 
 # The Data
 
@@ -42,20 +33,20 @@ The artworks data set contains 130,262 records, representing all of the works th
 
 To make sure that this test can run on any machine, we're using SQLite: https://www.sqlite.org/index.html
 
-We have provided an example Python notebook showing how to connect to, and how to query the database using SQL. 
+We have provided an example Python notebook showing how to connect to, and how to query the database using SQL.
 
 # The Test!
 
 We'd like you to answer the following questions, using the language of your choice (Python, SQL or R)
 
-If you are comfortable in more than one, please feel free to share one or more solutions in a different language. 
+If you are comfortable in more than one, please feel free to share one or more solutions in a different language.
 
 * Which artist in this data set lived the longest?
 * Who are the top 10 artists by the number of artworks?
 * Which artist is created the most artwork by total surface area?
 * Did any artists have artwork acquired during their lifetime?
 * Please review the quality of the data, and present any issues
-* Please group the artworks into as many clusters as you feel is appropriate, using attributes from both the artist and artworks tables, and assign each artwork to this new cluster. 
+* Please group the artworks into as many clusters as you feel is appropriate, using attributes from both the artist and artworks tables, and assign each artwork to this new cluster.
 
 # The test submission
 
