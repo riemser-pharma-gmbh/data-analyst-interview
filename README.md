@@ -19,7 +19,7 @@ If you would prefer to use a different tool, please feel free.
 
 ## SQL
 
-It is possible to answer this test using SQL alone. If this is your preference, please ensure your SQL is well annotated.
+It is possible to answer this test using SQL alone. If this is your preference, please ensure your SQL is well annotated. We recoomend connecting to the SQLite DB via tools like DBeaver.
 
 # The Data
 
@@ -39,7 +39,7 @@ We have provided an example Python notebook showing how to connect to, and how t
 
 We'd like you to answer the following questions, using the language of your choice (Python, SQL or R)
 
-If you are comfortable in more than one, please feel free to share one or more solutions in a different language.
+If you are comfortable in more than one, please feel free to share one or more solutions in a different language. Please do not use more than **2 hours** to work on the test.
 
 * Which artist in this data set lived the longest?
 * Who are the top 10 artists by the number of artworks?
